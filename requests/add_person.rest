@@ -1,0 +1,7 @@
+POST https://akskokki-puhelinluettelo.fly.dev/api/persons
+Content-Type: application/json
+
+{
+    "name": "Testy Tester",
+    "number": "1337-80085"
+}

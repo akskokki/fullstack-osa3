@@ -1,0 +1,1 @@
+DELETE https://akskokki-puhelinluettelo.fly.dev/api/persons/4
